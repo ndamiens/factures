@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
-# Téléchargement des factures FDN
+# Téléchargement des factures Wibox
 #
-# usage : fdn-dl-fact.py login_connection mot_de_passe repertoire_destination
+# usage : wibox-dl-fact.py identifiant mot_de_passe repertoire_destination
 #
 
 import sys
